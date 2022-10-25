@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ProjetoSinqia.iml" filepath="$PROJECT_DIR$/ProjetoSinqia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../media/media.iml" filepath="$PROJECT_DIR$/../media/media.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../primos/primos.iml" filepath="$PROJECT_DIR$/../primos/primos.iml" />
+    </modules>
+  </component>
+</project>
